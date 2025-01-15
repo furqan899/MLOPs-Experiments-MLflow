@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/15e93f6b87284991978c80c3809df4e9/artifacts
+end_time: 1724827335085
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 15e93f6b87284991978c80c3809df4e9
+run_name: stylish-lark-105
+run_uuid: 15e93f6b87284991978c80c3809df4e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724827334220
+status: 3
+tags: []
+user_id: Personal

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Personal/Desktop/YouTube-MLOps-Series/YT-MLOPS-Experiments-with-MLFlow/mlruns/310046398128249825/4cb2711e96ea4df7a4bf6037c47d39f8/artifacts
+end_time: 1724833322449
+entry_point_name: ''
+experiment_id: '310046398128249825'
+lifecycle_stage: active
+run_id: 4cb2711e96ea4df7a4bf6037c47d39f8
+run_name: unique-kit-663
+run_uuid: 4cb2711e96ea4df7a4bf6037c47d39f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724833322249
+status: 3
+tags: []
+user_id: Personal

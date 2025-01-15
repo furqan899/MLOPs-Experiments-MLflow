@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1724834091108
+current_stage: Production
+description: ''
+last_updated_timestamp: 1724834127697
+name: Vikash-Model-1
+run_id: 8a98823423a44bcfbcb419159f9e6bad
+run_link: ''
+source: file:///C:/Users/Personal/Desktop/YouTube-MLOps-Series/YT-MLOPS-Experiments-with-MLFlow/mlruns/310046398128249825/8a98823423a44bcfbcb419159f9e6bad/artifacts/random_forest
+status: READY
+status_message: null
+storage_location: file:///C:/Users/Personal/Desktop/YouTube-MLOps-Series/YT-MLOPS-Experiments-with-MLFlow/mlruns/310046398128249825/8a98823423a44bcfbcb419159f9e6bad/artifacts/random_forest
+user_id: null
+version: 2

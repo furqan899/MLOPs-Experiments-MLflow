@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Personal/Desktop/YouTube-MLOps-Series/YT-MLOPS-Experiments-with-MLFlow/mlruns/310046398128249825/7c47e4e52ed647768efe071222e5661d/artifacts
+end_time: 1724833321771
+entry_point_name: ''
+experiment_id: '310046398128249825'
+lifecycle_stage: active
+run_id: 7c47e4e52ed647768efe071222e5661d
+run_name: tasteful-deer-404
+run_uuid: 7c47e4e52ed647768efe071222e5661d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724833321603
+status: 3
+tags: []
+user_id: Personal

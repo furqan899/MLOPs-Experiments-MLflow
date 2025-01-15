@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/119094466799099402/9cf34effd5d74143b86103349db638c1/artifacts
+deleted_time: 1724830204162
+end_time: 1724830147323
+entry_point_name: ''
+experiment_id: '119094466799099402'
+lifecycle_stage: deleted
+run_id: 9cf34effd5d74143b86103349db638c1
+run_name: upset-tern-465
+run_uuid: 9cf34effd5d74143b86103349db638c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724830145574
+status: 4
+tags: []
+user_id: Personal
