@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Personal/Desktop/YouTube-MLOps-Series/YT-MLOPS-Experiments-with-MLFlow/mlruns/310046398128249825/a3d0d9f43f534f829a94bfbef2f7aac5/artifacts
+end_time: 1736950395194
+entry_point_name: ''
+experiment_id: '310046398128249825'
+lifecycle_stage: active
+run_id: a3d0d9f43f534f829a94bfbef2f7aac5
+run_name: fearless-kite-467
+run_uuid: a3d0d9f43f534f829a94bfbef2f7aac5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736950395111
+status: 3
+tags: []
+user_id: Admin

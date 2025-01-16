@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Personal/Desktop/YouTube-MLOps-Series/YT-MLOPS-Experiments-with-MLFlow/mlruns/310046398128249825/88cc09bea54b44dbaa626c78e0b7470f/artifacts
+end_time: 1736950298718
+entry_point_name: ''
+experiment_id: '310046398128249825'
+lifecycle_stage: active
+run_id: 88cc09bea54b44dbaa626c78e0b7470f
+run_name: youthful-conch-596
+run_uuid: 88cc09bea54b44dbaa626c78e0b7470f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736950298636
+status: 3
+tags: []
+user_id: Admin

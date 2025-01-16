@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Personal/Desktop/YouTube-MLOps-Series/YT-MLOPS-Experiments-with-MLFlow/mlruns/310046398128249825/6ec84054d4084ca9a20f43365ba78e40/artifacts
+deleted_time: 1736950718886
+end_time: 1736950104569
+entry_point_name: ''
+experiment_id: '310046398128249825'
+lifecycle_stage: deleted
+run_id: 6ec84054d4084ca9a20f43365ba78e40
+run_name: persistent-snail-740
+run_uuid: 6ec84054d4084ca9a20f43365ba78e40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736950096265
+status: 4
+tags: []
+user_id: Admin

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Personal/Desktop/YouTube-MLOps-Series/YT-MLOPS-Experiments-with-MLFlow/mlruns/310046398128249825/5242d7782cbc4f38bd9940353d3bbf48/artifacts
+end_time: 1736950526940
+entry_point_name: ''
+experiment_id: '310046398128249825'
+lifecycle_stage: active
+run_id: 5242d7782cbc4f38bd9940353d3bbf48
+run_name: adaptable-mouse-360
+run_uuid: 5242d7782cbc4f38bd9940353d3bbf48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736950526852
+status: 3
+tags: []
+user_id: Admin

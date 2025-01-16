@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Personal/Desktop/YouTube-MLOps-Series/YT-MLOPS-Experiments-with-MLFlow/mlruns/310046398128249825/f62a3e942a95464b90829cd18bee5944/artifacts
+deleted_time: 1736950718884
+end_time: 1736950333882
+entry_point_name: ''
+experiment_id: '310046398128249825'
+lifecycle_stage: deleted
+run_id: f62a3e942a95464b90829cd18bee5944
+run_name: peaceful-mink-175
+run_uuid: f62a3e942a95464b90829cd18bee5944
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736950324991
+status: 4
+tags: []
+user_id: Admin

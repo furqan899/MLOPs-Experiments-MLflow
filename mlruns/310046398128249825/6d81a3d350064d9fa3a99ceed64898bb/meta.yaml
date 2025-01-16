@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Personal/Desktop/YouTube-MLOps-Series/YT-MLOPS-Experiments-with-MLFlow/mlruns/310046398128249825/6d81a3d350064d9fa3a99ceed64898bb/artifacts
+end_time: 1736950042502
+entry_point_name: ''
+experiment_id: '310046398128249825'
+lifecycle_stage: active
+run_id: 6d81a3d350064d9fa3a99ceed64898bb
+run_name: redolent-sloth-564
+run_uuid: 6d81a3d350064d9fa3a99ceed64898bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736950042440
+status: 3
+tags: []
+user_id: Admin

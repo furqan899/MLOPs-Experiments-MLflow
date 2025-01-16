@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Personal/Desktop/YouTube-MLOps-Series/YT-MLOPS-Experiments-with-MLFlow/mlruns/310046398128249825/c01b3798e02d455cab9b2c6e97fdc856/artifacts
+end_time: 1736950677460
+entry_point_name: ''
+experiment_id: '310046398128249825'
+lifecycle_stage: active
+run_id: c01b3798e02d455cab9b2c6e97fdc856
+run_name: learned-elk-758
+run_uuid: c01b3798e02d455cab9b2c6e97fdc856
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736950677370
+status: 3
+tags: []
+user_id: Admin

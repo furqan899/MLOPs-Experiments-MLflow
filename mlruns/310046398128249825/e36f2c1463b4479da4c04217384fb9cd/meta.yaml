@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Personal/Desktop/YouTube-MLOps-Series/YT-MLOPS-Experiments-with-MLFlow/mlruns/310046398128249825/e36f2c1463b4479da4c04217384fb9cd/artifacts
+deleted_time: 1736950718901
+end_time: 1736950451294
+entry_point_name: ''
+experiment_id: '310046398128249825'
+lifecycle_stage: deleted
+run_id: e36f2c1463b4479da4c04217384fb9cd
+run_name: righteous-fawn-565
+run_uuid: e36f2c1463b4479da4c04217384fb9cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736950433951
+status: 4
+tags: []
+user_id: Admin

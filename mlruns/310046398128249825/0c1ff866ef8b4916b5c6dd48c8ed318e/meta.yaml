@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Personal/Desktop/YouTube-MLOps-Series/YT-MLOPS-Experiments-with-MLFlow/mlruns/310046398128249825/0c1ff866ef8b4916b5c6dd48c8ed318e/artifacts
+end_time: 1736950103895
+entry_point_name: ''
+experiment_id: '310046398128249825'
+lifecycle_stage: active
+run_id: 0c1ff866ef8b4916b5c6dd48c8ed318e
+run_name: grandiose-cub-60
+run_uuid: 0c1ff866ef8b4916b5c6dd48c8ed318e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736950103812
+status: 3
+tags: []
+user_id: Admin

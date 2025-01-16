@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Personal/Desktop/YouTube-MLOps-Series/YT-MLOPS-Experiments-with-MLFlow/mlruns/310046398128249825/6b161e601d3843dd84f301ed78bd85b4/artifacts
+end_time: 1736950104254
+entry_point_name: ''
+experiment_id: '310046398128249825'
+lifecycle_stage: active
+run_id: 6b161e601d3843dd84f301ed78bd85b4
+run_name: amazing-steed-510
+run_uuid: 6b161e601d3843dd84f301ed78bd85b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736950104176
+status: 3
+tags: []
+user_id: Admin

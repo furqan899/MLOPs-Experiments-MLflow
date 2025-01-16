@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Personal/Desktop/YouTube-MLOps-Series/YT-MLOPS-Experiments-with-MLFlow/mlruns/310046398128249825/e698d120d1bf4d049f1cfe72a6168b26/artifacts
+deleted_time: 1736950718903
+end_time: 1736950042738
+entry_point_name: ''
+experiment_id: '310046398128249825'
+lifecycle_stage: deleted
+run_id: e698d120d1bf4d049f1cfe72a6168b26
+run_name: loud-auk-191
+run_uuid: e698d120d1bf4d049f1cfe72a6168b26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736950035701
+status: 4
+tags: []
+user_id: Admin

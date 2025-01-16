@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Personal/Desktop/YouTube-MLOps-Series/YT-MLOPS-Experiments-with-MLFlow/mlruns/310046398128249825/b41b46c08f584e0abff7307a7e21b85f/artifacts
+end_time: 1736950042429
+entry_point_name: ''
+experiment_id: '310046398128249825'
+lifecycle_stage: active
+run_id: b41b46c08f584e0abff7307a7e21b85f
+run_name: magnificent-flea-845
+run_uuid: b41b46c08f584e0abff7307a7e21b85f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736950042307
+status: 3
+tags: []
+user_id: Admin

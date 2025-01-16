@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Personal/Desktop/YouTube-MLOps-Series/YT-MLOPS-Experiments-with-MLFlow/mlruns/310046398128249825/57056e4939ad49b5b6ffeb5fbcef235f/artifacts
+end_time: 1736950297574
+entry_point_name: ''
+experiment_id: '310046398128249825'
+lifecycle_stage: active
+run_id: 57056e4939ad49b5b6ffeb5fbcef235f
+run_name: able-rook-138
+run_uuid: 57056e4939ad49b5b6ffeb5fbcef235f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736950297490
+status: 3
+tags: []
+user_id: Admin

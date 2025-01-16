@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Personal/Desktop/YouTube-MLOps-Series/YT-MLOPS-Experiments-with-MLFlow/mlruns/310046398128249825/2d5980f3d72241029dcb3ba13293558a/artifacts
+end_time: 1736950298227
+entry_point_name: ''
+experiment_id: '310046398128249825'
+lifecycle_stage: active
+run_id: 2d5980f3d72241029dcb3ba13293558a
+run_name: bustling-bear-375
+run_uuid: 2d5980f3d72241029dcb3ba13293558a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736950298107
+status: 3
+tags: []
+user_id: Admin

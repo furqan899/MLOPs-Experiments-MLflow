@@ -6,11 +6,10 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score, confusion_matrix
 import matplotlib.pyplot as plt
 import seaborn as sns
+import dagshub # type: ignore
+dagshub.init(repo_owner='furqan899', repo_name='MLOPs-Experiments-MLflow', mlflow=True)
 
-import dagshub
-dagshub.init(repo_owner='vikashdasXXX', repo_name='YT-MLOPS-Experiments-with-MLFlow', mlflow=True)
-
-mlflow.set_tracking_uri("https://dagshub.com/vikashdas770/")
+mlflow.set_tracking_uri("https://dagshub.com/furqan899/MLOPs-Experiments-MLflow.mlflow")
 
 # Load Wine dataset
 wine = load_wine()
@@ -25,7 +24,7 @@ max_depth = 8
 n_estimators = 5
 
 # Mention your experiment below
-mlflow.set_experiment('YT-MLOPS-Exp2')
+mlflow.set_experiment('Experiment-1')
 
 with mlflow.start_run():
     rf = RandomForestClassifier(max_depth=max_depth, n_estimators=n_estimators, random_state=42)

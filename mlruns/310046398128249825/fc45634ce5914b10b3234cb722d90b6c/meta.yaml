@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Personal/Desktop/YouTube-MLOps-Series/YT-MLOPS-Experiments-with-MLFlow/mlruns/310046398128249825/fc45634ce5914b10b3234cb722d90b6c/artifacts
+end_time: 1736956249337
+entry_point_name: ''
+experiment_id: '310046398128249825'
+lifecycle_stage: active
+run_id: fc45634ce5914b10b3234cb722d90b6c
+run_name: languid-sloth-22
+run_uuid: fc45634ce5914b10b3234cb722d90b6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736956249241
+status: 3
+tags: []
+user_id: Admin

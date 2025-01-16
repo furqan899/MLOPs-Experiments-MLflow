@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Personal/Desktop/YouTube-MLOps-Series/YT-MLOPS-Experiments-with-MLFlow/mlruns/310046398128249825/bb0d0ea704cc41ba87cbe4bcb02d6561/artifacts
+deleted_time: 1736950718900
+end_time: 1736950678537
+entry_point_name: ''
+experiment_id: '310046398128249825'
+lifecycle_stage: deleted
+run_id: bb0d0ea704cc41ba87cbe4bcb02d6561
+run_name: traveling-shrimp-990
+run_uuid: bb0d0ea704cc41ba87cbe4bcb02d6561
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736950670930
+status: 4
+tags: []
+user_id: Admin

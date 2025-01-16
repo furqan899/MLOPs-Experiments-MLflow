@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Personal/Desktop/YouTube-MLOps-Series/YT-MLOPS-Experiments-with-MLFlow/mlruns/310046398128249825/b21e3fbd1b26454ca73957af1152aebc/artifacts
+deleted_time: 1736950718888
+end_time: 1736950299127
+entry_point_name: ''
+experiment_id: '310046398128249825'
+lifecycle_stage: deleted
+run_id: b21e3fbd1b26454ca73957af1152aebc
+run_name: wise-cow-897
+run_uuid: b21e3fbd1b26454ca73957af1152aebc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736950289930
+status: 4
+tags: []
+user_id: Admin

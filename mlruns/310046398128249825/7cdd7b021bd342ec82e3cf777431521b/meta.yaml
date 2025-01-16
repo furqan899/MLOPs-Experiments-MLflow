@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Personal/Desktop/YouTube-MLOps-Series/YT-MLOPS-Experiments-with-MLFlow/mlruns/310046398128249825/7cdd7b021bd342ec82e3cf777431521b/artifacts
+end_time: 1736950907862
+entry_point_name: ''
+experiment_id: '310046398128249825'
+lifecycle_stage: active
+run_id: 7cdd7b021bd342ec82e3cf777431521b
+run_name: magnificent-bat-778
+run_uuid: 7cdd7b021bd342ec82e3cf777431521b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736950907783
+status: 3
+tags: []
+user_id: Admin

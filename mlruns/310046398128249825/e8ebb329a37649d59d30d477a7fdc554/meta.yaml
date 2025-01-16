@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Personal/Desktop/YouTube-MLOps-Series/YT-MLOPS-Experiments-with-MLFlow/mlruns/310046398128249825/e8ebb329a37649d59d30d477a7fdc554/artifacts
+end_time: 1736950332834
+entry_point_name: ''
+experiment_id: '310046398128249825'
+lifecycle_stage: active
+run_id: e8ebb329a37649d59d30d477a7fdc554
+run_name: debonair-shad-458
+run_uuid: e8ebb329a37649d59d30d477a7fdc554
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736950332754
+status: 3
+tags: []
+user_id: Admin

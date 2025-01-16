@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Personal/Desktop/YouTube-MLOps-Series/YT-MLOPS-Experiments-with-MLFlow/mlruns/310046398128249825/78dd436643724851a8bbc4df33da8da9/artifacts
+end_time: 1736950678372
+entry_point_name: ''
+experiment_id: '310046398128249825'
+lifecycle_stage: active
+run_id: 78dd436643724851a8bbc4df33da8da9
+run_name: classy-donkey-27
+run_uuid: 78dd436643724851a8bbc4df33da8da9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736950678283
+status: 3
+tags: []
+user_id: Admin

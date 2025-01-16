@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Personal/Desktop/YouTube-MLOps-Series/YT-MLOPS-Experiments-with-MLFlow/mlruns/310046398128249825/89042d9716074a749191f71b81280d69/artifacts
+end_time: 1736950907988
+entry_point_name: ''
+experiment_id: '310046398128249825'
+lifecycle_stage: active
+run_id: 89042d9716074a749191f71b81280d69
+run_name: spiffy-ape-378
+run_uuid: 89042d9716074a749191f71b81280d69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736950907904
+status: 3
+tags: []
+user_id: Admin

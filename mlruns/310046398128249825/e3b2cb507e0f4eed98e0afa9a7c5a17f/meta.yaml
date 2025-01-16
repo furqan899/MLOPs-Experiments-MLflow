@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Personal/Desktop/YouTube-MLOps-Series/YT-MLOPS-Experiments-with-MLFlow/mlruns/310046398128249825/e3b2cb507e0f4eed98e0afa9a7c5a17f/artifacts
+end_time: 1736950104136
+entry_point_name: ''
+experiment_id: '310046398128249825'
+lifecycle_stage: active
+run_id: e3b2cb507e0f4eed98e0afa9a7c5a17f
+run_name: nosy-moth-836
+run_uuid: e3b2cb507e0f4eed98e0afa9a7c5a17f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736950104058
+status: 3
+tags: []
+user_id: Admin

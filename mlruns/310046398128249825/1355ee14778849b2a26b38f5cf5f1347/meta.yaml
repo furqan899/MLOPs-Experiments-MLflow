@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Personal/Desktop/YouTube-MLOps-Series/YT-MLOPS-Experiments-with-MLFlow/mlruns/310046398128249825/1355ee14778849b2a26b38f5cf5f1347/artifacts
+end_time: 1736950394827
+entry_point_name: ''
+experiment_id: '310046398128249825'
+lifecycle_stage: active
+run_id: 1355ee14778849b2a26b38f5cf5f1347
+run_name: zealous-snail-156
+run_uuid: 1355ee14778849b2a26b38f5cf5f1347
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736950394747
+status: 3
+tags: []
+user_id: Admin

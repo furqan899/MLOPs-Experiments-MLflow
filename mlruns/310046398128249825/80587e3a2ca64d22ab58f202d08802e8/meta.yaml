@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Personal/Desktop/YouTube-MLOps-Series/YT-MLOPS-Experiments-with-MLFlow/mlruns/310046398128249825/80587e3a2ca64d22ab58f202d08802e8/artifacts
+end_time: 1736956043917
+entry_point_name: ''
+experiment_id: '310046398128249825'
+lifecycle_stage: active
+run_id: 80587e3a2ca64d22ab58f202d08802e8
+run_name: adorable-roo-523
+run_uuid: 80587e3a2ca64d22ab58f202d08802e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736956043830
+status: 3
+tags: []
+user_id: Admin

@@ -1,0 +1,6 @@
+mlflow
+seaborn
+scikit-learn
+pandas
+matplotlib
+dagshub

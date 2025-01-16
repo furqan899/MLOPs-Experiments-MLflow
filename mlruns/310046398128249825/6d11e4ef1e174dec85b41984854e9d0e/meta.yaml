@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Personal/Desktop/YouTube-MLOps-Series/YT-MLOPS-Experiments-with-MLFlow/mlruns/310046398128249825/6d11e4ef1e174dec85b41984854e9d0e/artifacts
+end_time: 1736950442722
+entry_point_name: ''
+experiment_id: '310046398128249825'
+lifecycle_stage: active
+run_id: 6d11e4ef1e174dec85b41984854e9d0e
+run_name: rare-zebra-654
+run_uuid: 6d11e4ef1e174dec85b41984854e9d0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736950442643
+status: 3
+tags: []
+user_id: Admin

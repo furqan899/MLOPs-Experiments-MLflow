@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Personal/Desktop/YouTube-MLOps-Series/YT-MLOPS-Experiments-with-MLFlow/mlruns/310046398128249825/5753dedf5383496c9059b9e83ab263e2/artifacts
+end_time: 1736950442846
+entry_point_name: ''
+experiment_id: '310046398128249825'
+lifecycle_stage: active
+run_id: 5753dedf5383496c9059b9e83ab263e2
+run_name: skillful-boar-147
+run_uuid: 5753dedf5383496c9059b9e83ab263e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736950442763
+status: 3
+tags: []
+user_id: Admin

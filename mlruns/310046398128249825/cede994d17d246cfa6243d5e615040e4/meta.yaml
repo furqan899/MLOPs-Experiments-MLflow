@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Personal/Desktop/YouTube-MLOps-Series/YT-MLOPS-Experiments-with-MLFlow/mlruns/310046398128249825/cede994d17d246cfa6243d5e615040e4/artifacts
+end_time: 1736950103498
+entry_point_name: ''
+experiment_id: '310046398128249825'
+lifecycle_stage: active
+run_id: cede994d17d246cfa6243d5e615040e4
+run_name: skillful-skunk-334
+run_uuid: cede994d17d246cfa6243d5e615040e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736950103412
+status: 3
+tags: []
+user_id: Admin

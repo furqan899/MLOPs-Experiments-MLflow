@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Personal/Desktop/YouTube-MLOps-Series/YT-MLOPS-Experiments-with-MLFlow/mlruns/310046398128249825/24f3c0bd3875420395463a89bfbd0fb9/artifacts
+end_time: 1736950298064
+entry_point_name: ''
+experiment_id: '310046398128249825'
+lifecycle_stage: active
+run_id: 24f3c0bd3875420395463a89bfbd0fb9
+run_name: loud-mouse-442
+run_uuid: 24f3c0bd3875420395463a89bfbd0fb9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736950297986
+status: 3
+tags: []
+user_id: Admin

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Personal/Desktop/YouTube-MLOps-Series/YT-MLOPS-Experiments-with-MLFlow/mlruns/310046398128249825/6801eabdd38149c8a940d21976e60df6/artifacts
+end_time: 1736950333596
+entry_point_name: ''
+experiment_id: '310046398128249825'
+lifecycle_stage: active
+run_id: 6801eabdd38149c8a940d21976e60df6
+run_name: receptive-eel-282
+run_uuid: 6801eabdd38149c8a940d21976e60df6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736950333514
+status: 3
+tags: []
+user_id: Admin

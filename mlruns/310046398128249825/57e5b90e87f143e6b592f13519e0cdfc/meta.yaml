@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Personal/Desktop/YouTube-MLOps-Series/YT-MLOPS-Experiments-with-MLFlow/mlruns/310046398128249825/57e5b90e87f143e6b592f13519e0cdfc/artifacts
+end_time: 1736950527066
+entry_point_name: ''
+experiment_id: '310046398128249825'
+lifecycle_stage: active
+run_id: 57e5b90e87f143e6b592f13519e0cdfc
+run_name: honorable-ox-433
+run_uuid: 57e5b90e87f143e6b592f13519e0cdfc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736950526982
+status: 3
+tags: []
+user_id: Admin

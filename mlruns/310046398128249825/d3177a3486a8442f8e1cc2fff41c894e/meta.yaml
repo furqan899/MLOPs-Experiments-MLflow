@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Personal/Desktop/YouTube-MLOps-Series/YT-MLOPS-Experiments-with-MLFlow/mlruns/310046398128249825/d3177a3486a8442f8e1cc2fff41c894e/artifacts
+end_time: 1736950332353
+entry_point_name: ''
+experiment_id: '310046398128249825'
+lifecycle_stage: active
+run_id: d3177a3486a8442f8e1cc2fff41c894e
+run_name: nervous-smelt-209
+run_uuid: d3177a3486a8442f8e1cc2fff41c894e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736950332269
+status: 3
+tags: []
+user_id: Admin

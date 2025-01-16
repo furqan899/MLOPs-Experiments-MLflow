@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Personal/Desktop/YouTube-MLOps-Series/YT-MLOPS-Experiments-with-MLFlow/mlruns/310046398128249825/de1058c9ecc34b3692fd2fd44a5e0429/artifacts
+end_time: 1736950104378
+entry_point_name: ''
+experiment_id: '310046398128249825'
+lifecycle_stage: active
+run_id: de1058c9ecc34b3692fd2fd44a5e0429
+run_name: exultant-pug-822
+run_uuid: de1058c9ecc34b3692fd2fd44a5e0429
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736950104293
+status: 3
+tags: []
+user_id: Admin

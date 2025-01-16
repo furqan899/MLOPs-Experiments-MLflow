@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Personal/Desktop/YouTube-MLOps-Series/YT-MLOPS-Experiments-with-MLFlow/mlruns/310046398128249825/fe11c85a98a7416c9ab2f0088c340057/artifacts
+end_time: 1736956044624
+entry_point_name: ''
+experiment_id: '310046398128249825'
+lifecycle_stage: active
+run_id: fe11c85a98a7416c9ab2f0088c340057
+run_name: invincible-ram-324
+run_uuid: fe11c85a98a7416c9ab2f0088c340057
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736956036553
+status: 4
+tags: []
+user_id: Admin

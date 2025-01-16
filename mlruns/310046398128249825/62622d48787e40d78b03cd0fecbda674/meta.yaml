@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Personal/Desktop/YouTube-MLOps-Series/YT-MLOPS-Experiments-with-MLFlow/mlruns/310046398128249825/62622d48787e40d78b03cd0fecbda674/artifacts
+end_time: 1736956044305
+entry_point_name: ''
+experiment_id: '310046398128249825'
+lifecycle_stage: active
+run_id: 62622d48787e40d78b03cd0fecbda674
+run_name: rogue-newt-409
+run_uuid: 62622d48787e40d78b03cd0fecbda674
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736956044220
+status: 3
+tags: []
+user_id: Admin
